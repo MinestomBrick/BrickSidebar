@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.minestombrick.sidebar.api","l":"Sidebar"},{"p":"org.minestombrick.sidebar.api","l":"SidebarAPI"},{"p":"org.minestombrick.sidebar.api","l":"SidebarManager"}];updateSearchResults();
